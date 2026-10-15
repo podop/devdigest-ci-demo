@@ -1,0 +1,7 @@
+{
+  "name": "devdigest-ci-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tiny demo service used to test the DevDigest Export to CI flow."
+}
